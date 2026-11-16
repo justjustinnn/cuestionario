@@ -1,5 +1,5 @@
 // Número de WhatsApp de Justin (con código de país, sin + ni espacios)
-const NUMERO_WHATSAPP = "50495456861";
+const NUMERO_WHATSAPP = "50495455861";
 
 const formulario = document.getElementById("formulario");
 const resultado = document.getElementById("resultado");
